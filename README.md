@@ -1,5 +1,5 @@
 # gtu-sem7-result
-Script to monitor for if the results for Sem 7 are and send emails if they are.
+Script to monitor if the results for Sem 7 are out and send emails if they are.
 
 `npm i`
 
