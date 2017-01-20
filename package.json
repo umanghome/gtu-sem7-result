@@ -1,0 +1,16 @@
+{
+  "name": "gtu-sem7-result",
+  "version": "1.0.0",
+  "description": "Script to send email(s) when GTU Sem 7 results are out.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umang Galaiya",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.17.1",
+    "nodemailer": "^2.7.0",
+    "request": "^2.79.0"
+  }
+}
